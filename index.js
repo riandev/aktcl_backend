@@ -109,11 +109,11 @@ client.connect((err) => {
             answer4: update.answer4,
             answer5: update.answer5,
             answer6: update.answer6,
-            answer5: update.answer7,
-            answer6: update.answer8,
-            answer6: update.answer9,
-            answer5: update.answer10,
-            answer6: update.answer11,
+            answer7: update.answer7,
+            answer8: update.answer8,
+            answer9: update.answer9,
+            answer10: update.answer10,
+            answer11: update.answer11,
           },
         }
       )
